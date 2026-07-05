@@ -231,14 +231,36 @@ The Logistic Regression model achieved strong classification performance on the 
 
 
 ## Screenshots
+## Screenshots
 
-Include the following screenshots before submitting:
+The following screenshots demonstrate the successful implementation and execution of the project.
 
-1. VS Code project structure
-2. Model training output
-3. Drift simulation output
-4. Evidently AI HTML report
-5. GitHub repository
+### 1. Project Structure
+
+This screenshot shows the organized project folder structure in Visual Studio Code.
+
+![Project Structure](screenshots/project_structure.png)
+
+
+### 2. Model Training Output
+
+This screenshot displays the successful execution of the model training script along with the evaluation metrics, including Accuracy, Precision, Recall, and F1-score.
+
+![Model Training](screenshots/model_training.png)
+
+
+### 3. Evidently AI Drift Report
+
+This screenshot presents the interactive Evidently AI report highlighting dataset drift, feature drift statistics, distribution changes, and visual comparisons between the reference and current datasets.
+
+![Drift Report](screenshots/drift_report.png)
+
+
+### 4. GitHub Repository
+
+This screenshot shows the final GitHub repository containing the complete project structure, source code, datasets, trained model, Evidently report, and project documentation.
+
+![GitHub Repository](screenshots/github_repository.png)
 
 
 ## Key Learnings
