@@ -231,7 +231,6 @@ The Logistic Regression model achieved strong classification performance on the 
 
 
 ## Screenshots
-## Screenshots
 
 The following screenshots demonstrate the successful implementation and execution of the project.
 
